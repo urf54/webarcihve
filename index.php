@@ -12,7 +12,13 @@
     </form>
 
     <?php
-   // Kayıt dosyalarının bulunduğu dizini al
+   
+/**
+ * @author github.com/urf54
+ */
+
+
+// Kayıt dosyalarının bulunduğu dizini al
 $dir = "./";
 
 // Kayıt dosyalarını al
